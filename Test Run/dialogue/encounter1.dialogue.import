@@ -1,0 +1,14 @@
+[remap]
+
+importer="dialogue_manager_compiler_8"
+type="Resource"
+uid="uid://2rm1xde0h2im"
+path="res://.godot/imported/encounter1.dialogue-69c1ded68f2942a8805e4cb6b8b25968.tres"
+
+[deps]
+
+source_file="res://dialogue/encounter1.dialogue"
+dest_files=["res://.godot/imported/encounter1.dialogue-69c1ded68f2942a8805e4cb6b8b25968.tres"]
+
+[params]
+

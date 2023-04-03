@@ -1,0 +1,14 @@
+[remap]
+
+importer="dialogue_manager_compiler_8"
+type="Resource"
+uid="uid://bk2stgfyh3qg4"
+path="res://.godot/imported/credits.dialogue-611e84ae2881ba1eff250f8a91b834d7.tres"
+
+[deps]
+
+source_file="res://dialogue/credits.dialogue"
+dest_files=["res://.godot/imported/credits.dialogue-611e84ae2881ba1eff250f8a91b834d7.tres"]
+
+[params]
+
